@@ -3,7 +3,7 @@ const input = document.getElementById('message-input');
 const container = document.getElementById('messages-container');
 
 // Render backend URL
-const BACKEND_URL = 'https://chatterbot-backend-4heg.onrender.com/chatbot';
+const BACKEND_URL = 'https://chatterbot-backend-4heg.onrender.com';
 
 // Submit via Enter key
 input.addEventListener('keydown', (e) => {
